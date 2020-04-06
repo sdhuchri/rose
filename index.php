@@ -4,6 +4,7 @@
     <title></title>
     <script type="text/javascript" src="js/background.js"></script>
     <script type="text/javascript" src="js/countdown.js"></script>
+    <script type="text/javascript" src="js/song.js"></script>
     <link rel="stylesheet" type="text/css" href="css/background.css">
     <link rel="stylesheet" type="text/css" href="css/fadein.css">
     <link rel="stylesheet" type="text/css" href="css/countdown.css">
